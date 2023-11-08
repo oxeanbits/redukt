@@ -19,8 +19,8 @@ allprojects {
 Step 2. Add the dependency
 ```gradle
 dependencies {
-    compile 'com.github.oxeanbits.redukt:core:0.1.3'
-    compile 'com.github.oxeanbits.redukt:ui:0.1.3'
+    compile 'com.github.oxeanbits.redukt:core:0.1.4'
+    compile 'com.github.oxeanbits.redukt:ui:0.1.4'
 }
 ```
 
